@@ -1,4 +1,4 @@
-package com.capg.assignment;
+package com.capg.assignment1;
 
 import java.util.ArrayList;
 import java.util.List;
